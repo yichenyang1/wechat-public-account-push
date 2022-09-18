@@ -60,9 +60,9 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "ycy",
+      name: "zzl",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ojhoI6JUCWmpKrkZdmNoT5oryle4",
+      id: "ojhoI6JUCWmpKrkZdmNoT5oryle4,ojhoI6PIkUiymF6rVhH1pULCox9I",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "OFmxWBCHioeWCASg_basZYVPF1dNYZ7UEG6LiCRxwlU",
       // 所在省份
@@ -70,7 +70,7 @@ export const config = {
       // 所在城市
       city: "济南",
       // 新历生日, 仅用作获取星座运势, 格式必须
-      horoscopeDate: '09-18',
+      horoscopeDate: '09-22',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
